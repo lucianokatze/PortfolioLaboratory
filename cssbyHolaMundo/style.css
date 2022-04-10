@@ -1,0 +1,96 @@
+#titulo {
+    color: tomato;
+}
+p.texto {
+    color: slateblue;
+}
+
+p.especial {
+    color: mediumseagreen;
+}
+ div p {
+     color: aquamarine;
+ }
+
+ div h2, div h3 {
+     color: brown;
+ }
+
+ * {
+     font-size: 24px;
+     color: black;
+ }
+
+ /* Esto es un comentario */
+
+  /*
+    Esto es un comentario
+    que tiene muchas lineas
+  */
+.color {
+    /*
+    Como Funciona la conveción detras de los selectores
+     HEXAGESIMAL
+
+     La asusencia de todos los colores es negro que se representa
+     con el digito 0
+     Mientras que la F es la completa representación del color siendo este blanco
+    #FFF Blanco
+    #000 Negro
+     CON TRES DIGITOS
+
+     #000
+     Primer digito es correspondiente el rojo
+     Segundo digito es correspondiente al verde
+     El tercero es correspondiente al azul
+
+     CONVENCIÓN USANDO LOS 6 CEROS
+
+     Los dos primero dos digitos son el rojo
+     El tercero y cuarto responden al verde
+     el quito y sexto al azul
+    
+    color: #ff0000 = rojo */
+    /* Conceveción de RGB
+    aplica a que va del 0 a 255
+
+    primer valor rojo
+    segundo verde
+    tercero azul
+
+    color: rgb(red, green, blue);
+    
+    color: rgb(0, 0, 255) =azul
+    */
+    
+    
+    /*
+    border: 5px red inset;
+    Alternativas al los bordes
+
+    dotted
+    dashed
+    solid
+    double
+    (se pueden asignar a elementos tridicimencionales)
+        grovee
+        ridge
+        inset
+        outset
+    (dependen del color que se le asigna)
+    none
+    hidden */
+    border-style: solid;
+    border-color: blue;
+    border-radius: 5px;
+    border-width: 5px;
+}
+#fondo {
+    /* rgba pone la opacidad del color en su cuarto digito */
+    background-color: rgb(255, 0, 0);
+    height: 200px;
+    background-image: url('coffee.png');
+    background-size: 100px 100px;
+    background-repeat: repeat-y;
+    background-position: center top;
+}
