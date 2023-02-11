@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4ee70d443f5f0eaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso de Ciberseguridad/Comandos terminal Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cea1ccef87b6aa24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso de Ciberseguridad/ls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Curso de Ciberseguridad/ls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Curso de Ciberseguridad/ls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Curso de Ciberseguridad/ls.md"
               }
             }
           }
@@ -146,6 +171,11 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "32d94901e8d30534",
-  "lastOpenFiles": []
+  "active": "dfd6d867d7453ea7",
+  "lastOpenFiles": [
+    "Curso de Ciberseguridad/mkdir.md",
+    "Curso de Ciberseguridad/Comandos terminal Linux.md",
+    "Curso de Ciberseguridad/pwd.md",
+    "README.md"
+  ]
 }
