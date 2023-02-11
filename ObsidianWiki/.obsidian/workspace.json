@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso de Ciberseguridad/ls.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso de Ciberseguridad/ls.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso de Ciberseguridad/ls.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,7 +170,7 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "dfd6d867d7453ea7",
+  "active": "32d94901e8d30534",
   "lastOpenFiles": [
     "Curso de Ciberseguridad/mkdir.md",
     "Curso de Ciberseguridad/Comandos terminal Linux.md",
