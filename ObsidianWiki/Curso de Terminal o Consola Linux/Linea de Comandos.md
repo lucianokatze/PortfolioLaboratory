@@ -5,8 +5,8 @@ Sin embargo con esta herramienta podemos dar ordenes a la computadora, para nave
 
 # ¿Qué cosas tiene a favor?
 
-Es una interfaz con un uso de recursos muy baja, lo cual afecta en gran medida el rendimiendo.
+Es una interfaz con un uso de recursos muy baja, lo cual afecta en gran medida el rendimiendo, y permite hacer acciones por lotes lo cual una interfaz grafica KISS no lo permitiria.
 
-
-[[Estructura de carpetas Linux]]
-[[Comandos terminal Linux]]
+# Linux
+Podemos tener lineas de comando tanto en Linux como en windows, pero cada una tiene su propia estructura por ejemplo la  [[Estructura de carpetas Linux]] maneja todo como archivos. Mientras que Windows no.
+Los [[Comandos terminal Linux]] son muy variados, por lo que dejo una lista de los basicos escritos con ejemplos.

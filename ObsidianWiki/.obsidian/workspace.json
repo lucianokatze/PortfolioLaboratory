@@ -25,31 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ee70d443f5f0eaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso de Ciberseguridad/Comandos terminal Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cea1ccef87b6aa24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso de Ciberseguridad/ls.md",
+                "file": "Curso de Terminal o Consola Linux/Linea de Comandos.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "27de3d6ba780e027",
@@ -123,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
+                "file": "Curso de Terminal o Consola Linux/Linea de Comandos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
+                "file": "Curso de Terminal o Consola Linux/Linea de Comandos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md"
+                "file": "Curso de Terminal o Consola Linux/Linea de Comandos.md"
               }
             }
           }
@@ -186,15 +161,15 @@
   },
   "active": "5df207d1fc87091e",
   "lastOpenFiles": [
-    "lib.md",
     "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
-    "home.md",
-    "etc.md",
-    "dev.md",
-    "boot.md",
-    "bin.md",
+    "Curso de Terminal o Consola Linux/Comandos linux/Comandos terminal Linux.md",
     "Curso de Terminal o Consola Linux/Linea de Comandos.md",
-    "README.md",
-    "Curso de Bash Shell/Qué es un Script.md"
+    "Curso de Terminal o Consola Linux/Comandos linux/ls.md",
+    "Curso de Terminal o Consola Linux/Comandos linux/pwd.md",
+    "Curso de Terminal o Consola Linux/Carpetas Linux/bin.md",
+    "Curso de Terminal o Consola Linux/Carpetas Linux/lib.md",
+    "Curso de Terminal o Consola Linux/Carpetas Linux/home.md",
+    "Curso de Terminal o Consola Linux/Carpetas Linux/etc.md",
+    "Curso de Terminal o Consola Linux/Carpetas Linux/dev.md"
   ]
 }
