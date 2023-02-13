@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5df207d1fc87091e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4ee70d443f5f0eaa",
             "type": "leaf",
             "state": {
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "27de3d6ba780e027",
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md"
               }
             }
           }
@@ -170,11 +184,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "32d94901e8d30534",
+  "active": "5df207d1fc87091e",
   "lastOpenFiles": [
-    "Curso de Ciberseguridad/mkdir.md",
-    "Curso de Ciberseguridad/Comandos terminal Linux.md",
-    "Curso de Ciberseguridad/pwd.md",
-    "README.md"
+    "lib.md",
+    "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
+    "home.md",
+    "etc.md",
+    "dev.md",
+    "boot.md",
+    "bin.md",
+    "Curso de Terminal o Consola Linux/Linea de Comandos.md",
+    "README.md",
+    "Curso de Bash Shell/Qué es un Script.md"
   ]
 }
