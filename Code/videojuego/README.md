@@ -1,3 +1,10 @@
+# Mi trabajo con este codigo
+
+Descargue este framework para poder aprender más sobre la creacion de video juevos, a la vez desarrollar mejor mis conocimientos en HTML5, CSS Y JavaScript
+
+## Log
++ 13/02/2023: Aún no se que juegos voy a realizar con este framework pero pronto voy a escribir sobre el en mi [Blog personal](https://ckdyd.net/blog) sobre historia y desarrollo del mismo, por ahora solo voy a realizar los tutoriales de la web de Phaser, además de traducir al español lo que pueda de la documentación para dar acceso a quienes no saben ingles pero les guste este proyecto.
+
 # Phaser - HTML5 Game Framework
 
 ![Phaser Header](https://phaser.io/images/github/300/phaser-header.png "Phaser 3 Header Banner")
@@ -7,7 +14,7 @@
 ![npm](https://img.shields.io/jsdelivr/npm/hm/phaser?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/downloads/photonstorm/phaser/total?style=for-the-badge)
 
-Phaser is a fast, free, and fun open source HTML5 game framework that offers WebGL and Canvas rendering across desktop and mobile web browsers. Games can be compiled to iOS, Android and native apps by using 3rd party tools. You can use JavaScript or TypeScript for development.
+Phaser es un rapido, gratis y divertido framework HTML5 de codigo abierto que ofrece renderizado en WebGL y Canva en navegadores de Escritorio y dispositivos moviles. Los juegos se pueden compilar en iOS, Android y aplicaciones nativas mediante el uso de herramientas de 3ras partes. Puedes usar JavaScript o TypeScript para su desarrollo.
 
 Along with the fantastic open source community, Phaser is actively developed and maintained by [Photon Storm](http://www.photonstorm.com). As a result of rapid support, and a developer friendly API, Phaser is currently one of the [most starred](https://github.com/collections/javascript-game-engines) game frameworks on GitHub.
 
