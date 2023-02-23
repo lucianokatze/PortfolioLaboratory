@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diseño Web con HTML5 y CSS - FTM Ed 11/Introducción al HTML.md",
+                "file": "Curso de Terminal o Consola Linux/Comandos linux/mkdir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15f311d2e7c3da17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curso de Terminal o Consola Linux/Roadmap para aprender Linux.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diseño Web con HTML5 y CSS - FTM Ed 11/Introducción al HTML.md",
+                "file": "Curso de Terminal o Consola Linux/Roadmap para aprender Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diseño Web con HTML5 y CSS - FTM Ed 11/Introducción al HTML.md",
+                "file": "Curso de Terminal o Consola Linux/Roadmap para aprender Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diseño Web con HTML5 y CSS - FTM Ed 11/Introducción al HTML.md"
+                "file": "Curso de Terminal o Consola Linux/Roadmap para aprender Linux.md"
               }
             }
           }
@@ -195,17 +207,17 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8c6a2a3728421c65",
+  "active": "dfd6d867d7453ea7",
   "lastOpenFiles": [
+    "Curso de Terminal o Consola Linux/Comandos linux/mkdir.md",
+    "Curso de Terminal o Consola Linux/Comandos linux/pwd.md",
+    "Diseño Web con HTML5 y CSS - FTM Ed 11/Introducción al HTML.md",
     "Diseño Web con HTML5 y CSS - FTM Ed 11/Historia de la Web.md",
     "Diseño Web con HTML5 y CSS - FTM Ed 11/Qué es la web.md",
-    "Diseño Web con HTML5 y CSS - FTM Ed 11/Introducción al HTML.md",
     "Curso de Terminal o Consola Linux/Linea de Comandos.md",
     "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
     "Curso de Terminal o Consola Linux/Comandos linux/Comandos terminal Linux.md",
     "Curso de Terminal o Consola Linux/Comandos linux/ls.md",
-    "Curso de Terminal o Consola Linux/Comandos linux/pwd.md",
-    "Curso de Terminal o Consola Linux/Carpetas Linux/bin.md",
-    "Curso de Terminal o Consola Linux/Carpetas Linux/lib.md"
+    "Curso de Terminal o Consola Linux/Carpetas Linux/bin.md"
   ]
 }
