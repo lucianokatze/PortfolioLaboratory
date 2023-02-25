@@ -1,7 +1,7 @@
-# labs
-Bienvenidos a mi repositorio a modo de laboratorio, en este espacio se veran reflejadas varias carpetas donde voy a estar experimentando con distintos framework, además de notas que tome a modo de Wiki para poder hacer crecer mis conocimientos.
+# Proyect labs
+Welcome to my repository that I will use as a laboratory, in this space several folders will be reflected where I will be experimenting with different frameworks, as well as notes that I make in order to complete a personal Wikipedia, in order to grow my knowledge.
 
-#Lista de Carpetas
+#List of Directory
 
 ## ObsidianWiki
 En **Obsidian Wiki** podran encontrar mis notas de estudio, para poder tener una mejor experiencia recomiendo descargar [Obsidian MD](https://obsidian.md/ "Obsidian") con el podrán ver en detalle como se arma el mapa de conocimientos.
