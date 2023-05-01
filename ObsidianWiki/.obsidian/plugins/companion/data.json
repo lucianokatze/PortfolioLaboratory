@@ -1,0 +1,16 @@
+{
+  "provider": "openai",
+  "model": "gpt-3.5-turbo",
+  "enable_by_default": true,
+  "provider_settings": {
+    "openai": {
+      "settings": "{\"api_key\":\"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\"}",
+      "models": {}
+    },
+    "openai-chatgpt": {
+      "settings": "{\"api_key\":\"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\"}",
+      "models": {}
+    }
+  },
+  "presets": []
+}

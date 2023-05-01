@@ -1,1 +1,7 @@
-{}
+{
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "anexos",
+  "defaultViewMode": "preview",
+  "trashOption": "local"
+}

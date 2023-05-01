@@ -4,83 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "278776faf71fc6c6",
+        "id": "03c6f5f92df5e6e8",
         "type": "tabs",
         "children": [
           {
-            "id": "32d94901e8d30534",
+            "id": "8900c0b66c1e6627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5df207d1fc87091e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso de Terminal o Consola Linux/Linea de Comandos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ca6c41f60d388d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diseño Web con HTML5 y CSS - FTM Ed 11/Introducción al HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36f5224d1fd72d1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diseño Web con HTML5 y CSS - FTM Ed 11/Qué es la web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c6a2a3728421c65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso de Terminal o Consola Linux/Comandos linux/mkdir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15f311d2e7c3da17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso de Terminal o Consola Linux/Roadmap para aprender Linux.md",
+                "file": "Obsidian.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -146,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso de Terminal o Consola Linux/Roadmap para aprender Linux.md",
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso de Terminal o Consola Linux/Roadmap para aprender Linux.md",
+                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,11 +126,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso de Terminal o Consola Linux/Roadmap para aprender Linux.md"
+                "file": "Obsidian.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -202,22 +143,45 @@
       "switcher:Abrir quick switcher": false,
       "graph:Abrir vista de gráfico": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dfd6d867d7453ea7",
+  "active": "8900c0b66c1e6627",
   "lastOpenFiles": [
-    "Curso de Terminal o Consola Linux/Comandos linux/mkdir.md",
-    "Curso de Terminal o Consola Linux/Comandos linux/pwd.md",
-    "Diseño Web con HTML5 y CSS - FTM Ed 11/Introducción al HTML.md",
-    "Diseño Web con HTML5 y CSS - FTM Ed 11/Historia de la Web.md",
-    "Diseño Web con HTML5 y CSS - FTM Ed 11/Qué es la web.md",
-    "Curso de Terminal o Consola Linux/Linea de Comandos.md",
-    "Curso de Terminal o Consola Linux/Estructura de carpetas Linux.md",
-    "Curso de Terminal o Consola Linux/Comandos linux/Comandos terminal Linux.md",
-    "Curso de Terminal o Consola Linux/Comandos linux/ls.md",
-    "Curso de Terminal o Consola Linux/Carpetas Linux/bin.md"
+    "anexos/2.png",
+    "Obsidian.md",
+    "Obsidian Personal Help",
+    "anexos/1.png",
+    "README.md",
+    "Curso Henry",
+    "Personal Wiki/Diccionario de Terminos/Qué es responsivo.md",
+    "Personal Wiki",
+    "Personal Wiki/HTML/Introducción al HTML.md",
+    "PHP/PHP.md",
+    "Personal Wiki/Bash Shell/Qué es un Script.md",
+    "PHP",
+    "Personal Wiki/Framework/Bootstrap/Grid de Bootstrap.md",
+    "Personal Wiki/Framework/Bootstrap/Bootstrap.md",
+    "anexos",
+    "Personal Wiki/Diccionario de Terminos",
+    "Personal Wiki/Framework",
+    "2023-04-13.md",
+    "Personal Wiki/Framework/Bootstrap",
+    "row.md",
+    "Personal Wiki/Framework/Framework.md",
+    "Personal Wiki/Linux Console/Carpetas Linux/usr.md",
+    "Personal Wiki/Linux Console/Linea de Comandos.md",
+    "Personal Wiki/HTML/Qué es la web.md",
+    "Personal Wiki/Linux Console/Comandos linux/ls.md",
+    "Personal Wiki/Linux Console/Carpetas Linux/bin.md",
+    "Personal Wiki/Linux Console/Estructura de carpetas Linux.md",
+    "Personal Wiki/Linux Console/Carpetas Linux/home.md",
+    "Personal Wiki/Linux Console/Roadmap para aprender Linux.md",
+    "Personal Wiki/Linux Console/Comandos linux/mkdir.md",
+    "Personal Wiki/Linux Console/Comandos linux/pwd.md",
+    "Personal Wiki/HTML/Historia de la Web.md",
+    "Personal Wiki/Linux Console/Comandos linux/Comandos terminal Linux.md"
   ]
 }
