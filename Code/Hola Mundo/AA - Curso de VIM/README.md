@@ -18,8 +18,15 @@ Podes descargar una alternativa que es [NEOvim](https://neovim.io/) y seguir las
 
 # Comandos Basicos
 
-| Comando 			| Descripción 									|
-| ----------------------------- | ----------------------------------------------------------------------------- |
-| vim NOMBRE-DEL-ARCHIVO 	| para crear un archivo y dandole una extención en caso de que sea texto plano 	|
-| ESC dos veces **+** :q 	|  Salir el archivo si no hubo cambios 						|
-| ESC dos veces **+** :q! 	| Forzar la salida sin guardar 							|
+Como notas de como funciona Vim y dejar asentado el conocimiento en mi memoria voy a crear con markdown una tabla de los comando a medida que los voy entendiendo, por lo que en el siguiente texto vas a poder ver como insertar texto, guardarlo y salir de la terminal entre los comando más basicos
+
+
+| Comando 			| Descripción 										|
+| ----------------------------- | ------------------------------------------------------------------------------------- |
+| vim NOMBRE-DEL-ARCHIVO 	| para crear un archivo y dandole una extención en caso de que sea texto plano 		|
+| letra i			| Al apretar la letra I podemos ingresar texto al archivo				|
+| ESC dos veces			| Precionamos dos veces la tecla ESC para volver al modo lectura/normal			|
+| ESC dos veces **+** :q 	|  Salir el archivo si no hubo cambios 							|
+| ESC dos veces **+** :q! 	| Forzar la salida sin guardar 								|
+| ESC dos veces **+** :wq!	| Al escribir :wq! le damos a entender a Vim que queremos forzar, guardar y salir	| 
+
