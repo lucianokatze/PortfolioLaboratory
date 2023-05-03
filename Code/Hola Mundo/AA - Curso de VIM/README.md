@@ -10,7 +10,7 @@ El mismo lo vas a poder encontrar en el  [Curso de VIM en Udemy.com](https://ude
 
 Pero ¿Cómo instalarlo correctamente?
 
-Ingresar en [Vim.org](https://vim.org/download.php) y descarga para nuestro Sistema Operativo preferido.
+Ingresar en [Vim.org](https://www.vim.org/download.php) y descarga para nuestro Sistema Operativo preferido.
 
 ## Una alternativa
 
@@ -18,8 +18,8 @@ Podes descargar una alternativa que es [NEOvim](https://neovim.io/) y seguir las
 
 # Comandos Basicos
 
-| Comando | Descripción |
-| ------- | ----------- |
-| vim NOMBRE-DEL-ARCHIVO | para crear un archivo y dandole una extención en caso de que sea texto plano
-| ESC dos veces **+** :q |  Salir el archivo si no hubo cambios |
-| ESC dos veces **+** :q! | Forzar la salida sin guardar |
+| Comando 			| Descripción 									|
+| ----------------------------- | ----------------------------------------------------------------------------- |
+| vim NOMBRE-DEL-ARCHIVO 	| para crear un archivo y dandole una extención en caso de que sea texto plano 	|
+| ESC dos veces **+** :q 	|  Salir el archivo si no hubo cambios 						|
+| ESC dos veces **+** :q! 	| Forzar la salida sin guardar 							|
