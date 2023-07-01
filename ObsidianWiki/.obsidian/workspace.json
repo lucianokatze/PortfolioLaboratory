@@ -8,13 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8900c0b66c1e6627",
+            "id": "d32789058c156fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Qué se hará durante el curso - LPNO-2023.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -65,12 +66,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "56a7fbb548921bea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 220.5
   },
   "right": {
     "id": "27de3d6ba780e027",
@@ -86,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Qué se hará durante el curso - LPNO-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Qué se hará durante el curso - LPNO-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +135,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Qué se hará durante el curso - LPNO-2023.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,40 +155,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8900c0b66c1e6627",
+  "active": "d32789058c156fb7",
   "lastOpenFiles": [
-    "anexos/2.png",
+    "Estudios/Lanzamiento de tu primer negocio online/Lanzamiento de tu primer negocio Online.md",
+    "Qué se hará durante el curso - LPNO-2023.md",
+    "Motivaciones e influencias - LPNO-2023.md",
+    "Foncho Ramírez-Coso.md",
+    "Carrera de la Rata.md",
+    "Estudios/Diccionario/Outsourcing.md",
+    "Estudios/Diccionario",
+    "Estudios/HTML/Estructuras/Ver estructuras.md",
+    "Estudios/Lanzamiento de tu primer negocio online",
+    "README.md",
+    "Personal.md",
+    "anexos/Pasted image 20230515033637.png",
     "Obsidian.md",
+    "Estudios/HTML/Introducción al HTML.md",
+    "Estudios/HTML/Estructuras",
+    "anexos/2.png",
     "Obsidian Personal Help",
     "anexos/1.png",
-    "README.md",
     "Curso Henry",
-    "Personal Wiki/Diccionario de Terminos/Qué es responsivo.md",
-    "Personal Wiki",
-    "Personal Wiki/HTML/Introducción al HTML.md",
+    "Estudios/Diccionario de Terminos/Qué es responsivo.md",
+    "Estudios",
     "PHP/PHP.md",
-    "Personal Wiki/Bash Shell/Qué es un Script.md",
+    "Estudios/Bash Shell/Qué es un Script.md",
     "PHP",
-    "Personal Wiki/Framework/Bootstrap/Grid de Bootstrap.md",
-    "Personal Wiki/Framework/Bootstrap/Bootstrap.md",
+    "Estudios/Framework/Bootstrap/Grid de Bootstrap.md",
+    "Estudios/Framework/Bootstrap/Bootstrap.md",
     "anexos",
-    "Personal Wiki/Diccionario de Terminos",
-    "Personal Wiki/Framework",
+    "Estudios/Diccionario de Terminos",
+    "Estudios/Framework",
     "2023-04-13.md",
-    "Personal Wiki/Framework/Bootstrap",
     "row.md",
-    "Personal Wiki/Framework/Framework.md",
-    "Personal Wiki/Linux Console/Carpetas Linux/usr.md",
-    "Personal Wiki/Linux Console/Linea de Comandos.md",
-    "Personal Wiki/HTML/Qué es la web.md",
-    "Personal Wiki/Linux Console/Comandos linux/ls.md",
-    "Personal Wiki/Linux Console/Carpetas Linux/bin.md",
-    "Personal Wiki/Linux Console/Estructura de carpetas Linux.md",
-    "Personal Wiki/Linux Console/Carpetas Linux/home.md",
-    "Personal Wiki/Linux Console/Roadmap para aprender Linux.md",
-    "Personal Wiki/Linux Console/Comandos linux/mkdir.md",
-    "Personal Wiki/Linux Console/Comandos linux/pwd.md",
-    "Personal Wiki/HTML/Historia de la Web.md",
-    "Personal Wiki/Linux Console/Comandos linux/Comandos terminal Linux.md"
+    "Estudios/Framework/Framework.md",
+    "Estudios/Linux Console/Carpetas Linux/usr.md",
+    "Estudios/Linux Console/Linea de Comandos.md",
+    "Estudios/HTML/Qué es la web.md",
+    "Estudios/Linux Console/Comandos linux/ls.md",
+    "Estudios/Linux Console/Carpetas Linux/bin.md",
+    "Estudios/Linux Console/Estructura de carpetas Linux.md",
+    "Estudios/Linux Console/Carpetas Linux/home.md"
   ]
 }
